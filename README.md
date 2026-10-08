@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://vishnupriyamv.in/"><img src="https://img.shields.io/badge/Portfolio-0B1020?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/vishnupriya-m-v/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/vishnupriya-m-v-607279355/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:v74641001@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email Vishnupriya" /></a>
 </p>
 
@@ -122,6 +122,6 @@ Currently: working with AI agents, LLM integrations, and business workflows at *
 
 If you’re building an AI automation, an agent workflow, or a product with a real operational problem behind it, I’d love to talk.
 
-<p><a href="https://vishnupriyamv.in/"><strong>Portfolio ↗</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vishnupriya-m-v/"><strong>LinkedIn ↗</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:v74641001@gmail.com"><strong>Email ↗</strong></a></p>
+<p><a href="https://vishnupriyamv.in/"><strong>Portfolio ↗</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vishnupriya-m-v-607279355/"><strong>LinkedIn ↗</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:v74641001@gmail.com"><strong>Email ↗</strong></a></p>
 
 <p align="center"><sub>Designed as a compact engineering portfolio—signal over noise.</sub></p>
