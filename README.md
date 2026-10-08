@@ -16,6 +16,13 @@
   <a href="mailto:v74641001@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email Vishnupriya" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Agents-A855F7?style=flat-square&logo=openai&logoColor=white" alt="AI agents" />
+  <img src="https://img.shields.io/badge/Automation-0284C7?style=flat-square&logo=n8n&logoColor=white" alt="Automation" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Systems-059669?style=flat-square&logo=nextdotjs&logoColor=white" alt="Full-stack systems" />
+  <img src="https://img.shields.io/badge/Human--Centered%20AI-F97316?style=flat-square&logo=dependabot&logoColor=white" alt="Human-centered AI" />
+</p>
+
 I’m **Vishnupriya M V**, an AI Automation Engineer and Computer Science Engineering student in Thrissur, Kerala. I build practical systems where AI, automation, and thoughtful product design meet—from agent-ready developer tooling to education and civic platforms people can actually use.
 
 Currently: working with AI agents, LLM integrations, and business workflows at **Karv Devices**. I care about the part after the demo: clear flows, human review, and reliable outcomes.
@@ -36,14 +43,14 @@ Currently: working with AI agents, LLM integrations, and business workflows at *
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>01 — Rubriq</h3>
+      <h3>🟣 01 — Rubriq</h3>
       <p><strong>Assessment intelligence for handwritten examination workflows.</strong></p>
       <p>Connects question papers, answer keys, rubrics, handwritten submissions, evidence review, results, and learning insights—while keeping educators in control of the final evaluation.</p>
       <p><sub>Next.js · FastAPI · PostgreSQL · Multimodal AI · Evidence review</sub></p>
       <p><a href="https://github.com/vishnupriya759285/rubriq_codex">Repository</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>02 — Capability Forge</h3>
+      <h3>🔵 02 — Capability Forge</h3>
       <p><strong>Compile APIs into safer task-level capabilities for AI agents.</strong></p>
       <p>Explores deterministic execution graphs, formal contracts, risk tiers, approval guards, MCP exposure, evaluation scenarios, and repair-oriented verification.</p>
       <p><sub>TypeScript · Next.js · Zod · MCP · Evaluation workflows</sub></p>
@@ -52,14 +59,14 @@ Currently: working with AI agents, LLM integrations, and business workflows at *
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>03 — Smart Rural Issue Management System</h3>
+      <h3>🟢 03 — Smart Rural Issue Management System</h3>
       <p><strong>A digital civic-services workspace for rural panchayats.</strong></p>
       <p>Lets citizens report infrastructure issues, register for events by QR code, find welfare information, and gives officials a role-based workflow for action and communication.</p>
       <p><sub>TypeScript · Full-stack web · Supabase PostgreSQL · Vercel</sub></p>
       <p><a href="https://github.com/vishnupriya759285/velookara">Repository</a> · <a href="https://velookara-w1vg.vercel.app">Live project</a> · <strong>1st Prize, TinkHerHack 4.0</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3>04 — FixMyCampus</h3>
+      <h3>🟠 04 — FixMyCampus</h3>
       <p><strong>A traceable maintenance-resolution platform for campus operations.</strong></p>
       <p>Moves an issue from report to departmental assignment, work status, resolution, and verification, with role-specific views, notifications, analytics, image storage, and a defined state lifecycle.</p>
       <p><sub>Next.js · NestJS · GraphQL · Prisma · Supabase · Docker</sub></p>
@@ -68,7 +75,7 @@ Currently: working with AI agents, LLM integrations, and business workflows at *
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>05 — Ithinoru Pattu</h3>
+      <h3>🩷 05 — Ithinoru Pattu</h3>
       <p><strong>A browser-based outfit-to-soundtrack experiment.</strong></p>
       <p>Uses on-device visual analysis and OCR to read color, lighting, and T-shirt text, then proposes multilingual music matches—with camera frames staying in the browser.</p>
       <p><sub>TypeScript · Vite · Tesseract.js · WebRTC · Web Audio</sub></p>
